@@ -11,3 +11,4 @@ siemanko
 
 
 witam :-)
+nawet to proste
